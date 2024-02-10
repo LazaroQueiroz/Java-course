@@ -1,0 +1,18 @@
+line 2: declare a string variable named "name" and give it value "Fido"
+line 3: create a new instance of the class Dog named "myDog" and give it attributes values: name and size, declared previously.
+line 4: declare a new int variable called "x" and give it value of size minus 5.
+line 7: states a new loop using the while statement, giving it a continuing condition, declared as "x > 3".
+line 8: invoke a myDog object method called play() through the dot notation, that will be repeated while the condition in the loop isn't satisfied.
+line 9: closes the loop block using a bracket. Inside these brackets there is the code that'll be executed while the loop condition isn't satisfied.
+
+line 11: declare a array of integers named "numList" and give it the values: {2, 5, 6, 8};
+line 13: print out the string "Dog:" concatenated with the value that is assigned to the variable name.
+line 14: declares a string variable called num and give it a value "8"
+line 15: declares a integer variable called z and give it a expression as its value. the expressions is a function call that parse a string into a integer value. the string value that is passed as a parameter of this function is the string variable named num ("8")
+
+line 17: open a try statement block
+line 18: calls a reading file function and passes a file name as its argument.line 19: if the code inside the try block return the FileNotFoundException error it executes what's inside the block below
+line 20: print out the following string: "File not found."
+line 21: closes the catch block.
+
+
